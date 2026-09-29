@@ -32,7 +32,7 @@ To make BIS standards, certifications, and services easier to discover and under
 
 ## 🌐 Live Prototype
 
-[Open BIS Intelligent Assistant](YOUR_BOLT_WEBSITE_LINK)
+[Open BIS Intelligent Assistant]https://bis-intelligent-assi-wesn.bolt.host
 
 ## 🏆 Smart India Hackathon 2026
 
